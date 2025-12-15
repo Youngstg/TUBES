@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+   Cluster 1       0.36      0.06      0.11        65
+   Cluster 2       0.00      0.00      0.00        67
+   Cluster 3       0.41      0.52      0.46        77
+   Cluster 4       0.00      0.00      0.00        73
+   Cluster 5       0.25      0.92      0.39        63
+
+    accuracy                           0.30       345
+   macro avg       0.20      0.30      0.19       345
+weighted avg       0.20      0.30      0.19       345
